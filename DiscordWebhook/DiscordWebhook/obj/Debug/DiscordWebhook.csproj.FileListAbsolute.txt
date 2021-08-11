@@ -1,0 +1,7 @@
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.exe.config
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.exe
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\bin\Debug\DiscordWebhook.pdb
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.AssemblyReference.cache
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.csproj.CoreCompileInputs.cache
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.exe
+C:\Users\max37\source\repos\DiscordWebhook\DiscordWebhook\obj\Debug\DiscordWebhook.pdb
